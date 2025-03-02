@@ -1,4 +1,4 @@
-# Document Similarity Analysis using LangChain & Hugging Face
+# Document Similarity using LangChain & Hugging Face
 
 ## Overview
 This repository contains a Jupyter Notebook that implements an advanced document similarity analysis pipeline using **LangChain** and **Hugging Face embeddings**. The notebook demonstrates how to process textual data, generate meaningful vector representations, and compute similarity scores to determine document relationships.
