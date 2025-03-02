@@ -11,4 +11,4 @@ This repository contains a Jupyter Notebook that implements an advanced document
 Install the necessary dependencies before running the notebook:
 
 ```sh
-pip install langchain-huggingface transformers numpy scikit-learn
+pip install langchain-huggingface scikit-learn
